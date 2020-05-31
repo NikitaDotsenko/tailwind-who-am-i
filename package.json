@@ -14,6 +14,7 @@
     "postcss-cli": "^7.1.1",
     "postcss-import": "^12.0.1",
     "tailwindcss": "^1.4.6",
+    "tailwindcss-plugins": "^0.3.0",
     "vue": "^2.6.11",
     "vuex": "^3.4.0"
   },

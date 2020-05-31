@@ -1,5 +1,9 @@
 @tailwind base;
-
+@responsive {
+    .bg-gradient-blue-to-purple {
+        background-image: linear-gradient(to right, config('colors.blue'), config('colors.purple'));
+    }
+}
 @tailwind components;
 
 @tailwind utilities;
